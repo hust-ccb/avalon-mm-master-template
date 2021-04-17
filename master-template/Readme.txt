@@ -1,0 +1,1 @@
+intel官方原版的Master Template,fifo使用的是单时钟同步fifo
